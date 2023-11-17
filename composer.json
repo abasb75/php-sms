@@ -14,7 +14,7 @@
             "email": "abasbagheria@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "ippanel/php-rest-sdk": "dev-master"
     }
