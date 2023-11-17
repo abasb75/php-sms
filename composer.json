@@ -1,0 +1,21 @@
+{
+    "name": "abasb75/php-sms",
+    "description": "php sms",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Abasb75\\PhpSms\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "abasb75",
+            "email": "abasbagheria@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "ippanel/php-rest-sdk": "dev-master"
+    }
+}
